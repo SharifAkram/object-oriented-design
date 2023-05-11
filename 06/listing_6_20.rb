@@ -2,6 +2,7 @@
 # the most tightly coupled classes. Remember that RoadBike’s current
 # implementation looks like this:
 
+
 class Roadbike < Bicycle
   # ...
   def spares
