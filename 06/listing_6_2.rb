@@ -37,7 +37,7 @@ end
 bike = Bicycle.new(
         style:        :mountain,
         size:         'S',
-        front_shock:   'Manitou',
+        front_shock:  'Manitou',
         rear_shock:   'Fox')
 
 puts bike.spares

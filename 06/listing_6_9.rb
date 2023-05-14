@@ -8,8 +8,8 @@
 class RoadBike < Bicycle
   # ...
   def spares
-    {chain:   '11-speed',
-     tire_size: '23',
-     tape_color: tape_color}
+    { chain:      '11-speed',
+      tire_size:  '23',
+      tape_color: tape_color }
   end
 end

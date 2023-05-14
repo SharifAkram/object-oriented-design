@@ -1,7 +1,7 @@
 mountain_bike = MountainBike.new(
-      size: 'S',
+      size:        'S',
       front_shock: 'Manitou',
-      rear_shock: 'Fox')
+      rear_shock:  'Fox')
 
 puts mountain_bike.size
 # => S
