@@ -1,3 +1,5 @@
+# Decoupling subclasses using hook messages
+
 class Bicycle
   attr_reader :size, :chain, :tire_size
 
